@@ -2,8 +2,6 @@
 	<img height="400px" src="art/kuzmich-toolkit.png">
 </div>
 
-## Description
-
 Kuzmich tookit - it is a group of components for running Android instrumentation tests.
 
 This toolkit consists of:
