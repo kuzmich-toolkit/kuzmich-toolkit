@@ -8,6 +8,7 @@ Kuzmich tookit - it is components for running Android instrumentation tests.
 
 This toolkit consists of multiple tools:
 1. [Kuzmich runner](http://github.com/kuzmich-toolkit/kuzmich-runner) - tool for grouping devices and running instrumentation tests on parallel mode. This tool may run tests in two modes:
+	
 	a) **Normal mode** - this mode uses default instrumentation tests mechanism for running tests.
     b) **Isolation mode** - in this mode kuzmich runs test in separate instrumentation and clear package data before every test.
     
